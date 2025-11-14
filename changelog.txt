@@ -1,14 +1,17 @@
 Versão: 1.0.2 (unreleased)
 Data: ?
     Adições:
-        - Mods traduzidos (+ 7 / Total: 23)
+        - Mods traduzidos (+ 8 / Total: 24)
             Cannon Turret - por Vortik,
             Carriage Transport - por SoulCRYSIS,
             Early Elevated Rails - por Marcel171297,
             Heat Inserter - por Kryzeth,
             Mini Trains - por Klonan,
             Mini Trains Lead the Way - por Indzasa,
-            Planet Belt Portal - por agaede22
+            Planet Belt Portal - por agaede22,
+            Sushi Splitters - por TeXiCiTy
+    Correções:
+        - O mod Mini Trains foi integrado ao pacote oficialmente nesta versão, apesar de ter sido listado anteriormente, o mesmo não estava presente nos arquivos do pacote, e foi removido do log como "adicionado" na versão 1.0.1
     Alterações:
         - Agora o log de alterações é totalmente em português!
         - Removida a lista de mods dependentes opcionais para poupar muitas menções.
