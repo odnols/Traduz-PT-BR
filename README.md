@@ -29,13 +29,14 @@ ter justificativa para ser publicado no mod oficialmente.
 
 Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês.
 
-# 🔣 Mods traduzidos ( 16 / +9 a chegar )
+# 🔣 Mods traduzidos ( 16 / +10 a chegar )
 > V1.0.2 - Em andamento para dia `10/12`
 
 - [Cannon Turret](https://mods.factorio.com/mod/vtk-cannon-turret) - por Vortik
 - [Carriage Transport](https://mods.factorio.com/mod/carriage) - por SoulCRYSIS
 - [Early Elevated Rails](https://mods.factorio.com/mod/early-elevated-rails) - por Marcel171297
 - [Heat Inserter](https://mods.factorio.com/mod/heat-inserter) - por Kryzeth
+- [Logistics Insights](https://mods.factorio.com/mod/logistics-insights) - por farzag
 - [Mini Trains](https://mods.factorio.com/mod/Mini_Trains) - por Klonan
 - [Mini Trains Lead the Way](https://mods.factorio.com/mod/Mini-Trains-Lead-the-Way) - por Indzasa
 - [Planet Belt Portal](https://mods.factorio.com/mod/planet-belt-portal) - por agaede22

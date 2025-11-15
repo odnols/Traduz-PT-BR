@@ -1,11 +1,12 @@
 Versão: 1.0.2 (unreleased)
 Data: ?
     Adições:
-        - Mods traduzidos (+ 9 / Total: 25)
+        - Mods traduzidos ( +10 / Total: 26 )
             Cannon Turret - por Vortik,
             Carriage Transport - por SoulCRYSIS,
             Early Elevated Rails - por Marcel171297,
             Heat Inserter - por Kryzeth,
+            Logistics Insights - por farzag,
             Mini Trains - por Klonan,
             Mini Trains Lead the Way - por Indzasa,
             Planet Belt Portal - por agaede22,
@@ -28,7 +29,7 @@ Data: ?
 Versão: 1.0.1
 Data: 11/11/2025
     Adições:
-        - Mods traduzidos: (+ 1 / Total: 16)
+        - Mods traduzidos: ( +1 / Total: 16 )
             Bio Industries - por cackling.fiend
     Alterações:
         - A ordem de listagem dos mods dependentes opcionais foi atualizada.
@@ -39,7 +40,7 @@ Data: 11/11/2025
 Versão: 1.0.0
 Data: 11/11/2025
     Lançamento inicial:
-    - Mods traduzidos: (Total: 15)
+    - Mods traduzidos: ( Total: 15 )
         Battery-Electric Train - por catweax,
         Elevated pipes - por Redotix99,
         Fluid Must Flow - por raiguard,
