@@ -6,8 +6,10 @@ This project aims to gather original translations for various mods I've submitte
 > 🛂 The standard used to translate the mods is based entirely on the game, and the context is maintained with what already exists in the game.
 
 # 👨‍💻 Mod creators
-📡 If you are a mod creator and your mod is listed here, feel free to get a copy of the translations that have been made!
+📡 If you are a mod creator and your mod is listed here, feel free to get a copy of the translations that have been made, or add our mod as a optional dependency on your mod!
 > If you integrate the translation into the mod natively, please give proper credits!
+
+> ⏰ If you want more frequent updates and less work, make this pack optional (or required) in your mod to give players the option to download (or not) this localization, making your mod more accessible for brazilian portuguese speakers!
 
 📣 If your mod is not listed here and you would like to locate to your mod in Brazilian Portuguese with as much accurate detail as possible, contact me!
 
@@ -22,33 +24,33 @@ aos usuários, é planejado lançar uma grande atualização por mês ou a cada 
 
 Caso você esteja lendo isso, saiba que é possível baixar este repositório e incluir no seu jogo antes que o conteúdo seja oficialmente liberado em uma release no [portal mod](https://mods.factorio.com/mod/slondo-ptbr).
 
-> Para isso, baixe o repositório e mova ele em `%appdata%` na pasta `factorio/mods`.
+> Para isso, baixe o repositório e mova ele para o `%appdata%`, e depois para a pasta `factorio/mods`.
 
 O planejado é ter conteúdo suficiente para justificar uma troca de versão e um novo download, o repositório no git será atualizado frequentemente até
 ter justificativa para ser publicado no mod oficialmente.
 
-Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês.
+Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês, ou quando juntar bastante conteúdo.
 
-# 🔣 Mods traduzidos ( 16 / +10 a chegar )
-> V1.0.2 - Em andamento para dia `10/12` ( `+10 mods` )
+# 🔣 Mods traduzidos ( Atualmente: 26 )
+> V1.0.2 - `15/11/2025` ( `+10 mods traduzidos` )
 
 - [Cannon Turret](https://mods.factorio.com/mod/vtk-cannon-turret) - por Vortik
 - [Carriage Transport](https://mods.factorio.com/mod/carriage) - por SoulCRYSIS
 - [Early Elevated Rails](https://mods.factorio.com/mod/early-elevated-rails) - por Marcel171297
 - [Heat Inserter](https://mods.factorio.com/mod/heat-inserter) - por Kryzeth
 - [Logistics Insights](https://mods.factorio.com/mod/logistics-insights) - por farzag
-- [Mini Trains](https://mods.factorio.com/mod/Mini_Trains) - por Klonan
+- [Mini Trains](https://mods.factorio.com/mod/Mini_Trains) - por Klonan & Sacredanarchy
 - [Mini Trains Lead the Way](https://mods.factorio.com/mod/Mini-Trains-Lead-the-Way) - por Indzasa
 - [Planet Belt Portal](https://mods.factorio.com/mod/planet-belt-portal) - por agaede22
 - [Sushi Splitters](https://mods.factorio.com/mod/sushi-splitters) - por TeXiCiTy
-- [Tungsten](https://mods.factorio.com/mod/bztungsten2) - por cackling.fiend e Brevven
+- [Tungsten](https://mods.factorio.com/mod/bztungsten2) - por cackling.fiend & Brevven
 
 > V1.0.0 & 1.0.1 - 11/11/2025 ( `16 Mods traduzidos` )
 
-- [Battery-Electric Train](https://mods.factorio.com/mod/BatteryElectricTrain) - por catweax
-- [Bio Industries](https://mods.factorio.com/mod/Bio_Industries_2) - por cackling.fiend
-- [Elevated pipes](https://mods.factorio.com/mod/elevated-pipes) - por Redotix99
-- [Fluid Must Flow](https://mods.factorio.com/mod/FluidMustFlow) - por raiguard
+- [Battery-Electric Train](https://mods.factorio.com/mod/BatteryElectricTrain) - por catWEax
+- [Bio Industries](https://mods.factorio.com/mod/Bio_Industries_2) - por TheSAguy, Pi-C, Snouz & cackling.fiend
+- [Elevated pipes](https://mods.factorio.com/mod/elevated-pipes) - por Quezler & Redotix99
+- [Fluid Must Flow](https://mods.factorio.com/mod/FluidMustFlow) - por Linver, Krastor & raiguard
 - [Fracking Tower](https://mods.factorio.com/mod/pk-fracking-tower) - por GammaDelta
 - [Fusion Robots](https://mods.factorio.com/mod/FusionPoweredRobots) - por Acouya
 - [Legacy Train Model](https://mods.factorio.com/mod/AspctTrainPatch) - por aspct
@@ -59,5 +61,5 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 - [Plasma Accelerator](https://mods.factorio.com/mod/reactor-m) - por ArkadiPorovozov
 - [Reach Equipment](https://mods.factorio.com/mod/reach-equipment) - por BetweenWalls
 - [StarMap Background](https://mods.factorio.com/mod/Better_Starmap_Background) - por Tserup
-- [Text Plates](https://mods.factorio.com/mod/textplates) - por Earendel
+- [Text Plates](https://mods.factorio.com/mod/textplates) - por Earendel & gheift
 - [Visible Planets in Space](https://mods.factorio.com/mod/visible-planets) - por Nauviax

@@ -1,5 +1,8 @@
-Versão: 1.0.2 (unreleased)
-Data: ?
+Versão: 1.0.2
+Data: 15/11/2025
+    Depencencies:
+        - In this upload, we are removing the optional dependent mods from de site list. Since all supported mods are listed on the mod page, if your mod is on this list, please consider adding our mod as an optional one to your list to inform players that they can download Portuguese (Brazil) translations for your mod. This change aims to reduce repetitive work and the huge list of dependent mods as the package expands.
+        - Another detail concerns the changelog; with this update, we are also listing all the changes in Brazilian Portuguese so that native speakers know what is being changed, since this is a package for Brazilian Portuguese speakers. This will not imply the exclusion of the english returns here or in the mod page, so that all English-speaking readers know what's going on (without needing to translate :P)
     Adições:
         - Mods traduzidos ( +10 / Total: 26 )
             Cannon Turret - por Vortik,
@@ -7,30 +10,31 @@ Data: ?
             Early Elevated Rails - por Marcel171297,
             Heat Inserter - por Kryzeth,
             Logistics Insights - por farzag,
-            Mini Trains - por Klonan,
+            Mini Trains - por Klonan & Sacredanarchy,
             Mini Trains Lead the Way - por Indzasa,
             Planet Belt Portal - por agaede22,
             Sushi Splitters - por TeXiCiTy,
-            Tungsten - por cackling.fiend e Brevven
+            Tungsten - por cackling.fiend & Brevven
     Correções:
         - O mod Mini Trains foi integrado ao pacote oficialmente nesta versão, apesar de ter sido listado anteriormente, o mesmo não estava presente nos arquivos do pacote, e foi removido do log como "adicionado" na versão 1.0.1
     Alterações:
         - Agora o log de alterações é totalmente em português!
         - Removida a lista de mods dependentes opcionais para poupar muitas menções.
-            - Agora os mods serão listados conforme suas atualizações com links diretos na página do mod e no repositório do github.
+            - Agora os mods serão listados conforme suas atualizações com links diretos na página do mod e no repositório do github. 
     Ajustes:
         - Descrição do pacote ajustada para tornar mais formal e direta ao ponto.
         - "Parallax" do mod StarMap Background agora aparece traduzido para "paralaxe".
         - Removidas muitas chaves de tradução não utilizadas em vários arquivos de mods.
         - Invertido a ordem nos nomes das placas de texto no mod Text Plates, antes estava como "Placa de pedra grande", agora aparecerá como "Placa grande de pedra".
         - "de fusão" nos mods Planet Vesta e Fusion Robots foi ajustado para "a fusão" nos robôs e em outros itens para indicar que esses componentes são alimentados pela fusão nuclear, e não que são "feitos" (ou existem para fazer) pela fusão.
+        - Adicionadas novas traduçõs para o mod Bio Industries, especificamente para as entidades de "restos" que estão presentes no mod porém não possuem chaves de tradução em seus arquivos originais.
 
 ---------------------------------------------------------------------------------------------------
 Versão: 1.0.1
 Data: 11/11/2025
     Adições:
         - Mods traduzidos: ( +1 / Total: 16 )
-            Bio Industries - por cackling.fiend
+            Bio Industries - por TheSAguy, Pi-C, Snouz & cackling.fiend
     Alterações:
         - A ordem de listagem dos mods dependentes opcionais foi atualizada.
     Correções:
@@ -41,9 +45,9 @@ Versão: 1.0.0
 Data: 11/11/2025
     Lançamento inicial:
     - Mods traduzidos: ( Total: 15 )
-        Battery-Electric Train - por catweax,
-        Elevated pipes - por Redotix99,
-        Fluid Must Flow - por raiguard,
+        Battery-Electric Train - por catWEax,
+        Elevated pipes - por Quezler & Redotix99,
+        Fluid Must Flow - por Linver, Krastor & raiguard,
         Fracking Tower - por GammaDelta,
         Fusion Robots - por Acouya,
         Lunar Panel - por KilangCuka,
@@ -54,5 +58,5 @@ Data: 11/11/2025
         Plasma Accelerator - por ArkadiPorovozov,
         Reach Equipment - por BetweenWalls,
         StarMap Background - por Tserup,
-        Text Plates - por Earendel,
+        Text Plates - por Earendel & gheift,
         Visible Planets in Space - por Nauviax
