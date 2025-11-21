@@ -4,11 +4,14 @@ Data: ?
         - The changes from V1.0.2 have been undone! Optional mods make downloading faster and it's easier to see in-game what's supported in the translation package!
             - Unlike the changelog, we will list supported mods in alphabetical order globally, without separating by versions, just adding them in the middle.
     Adições:
-        - Mods traduzidos ( +5 / Total: 31)
+        - Mods traduzidos ( +8 / Total: 34)
             Actual Underground Pipes - por protocol_1903,
             Basic Chemistry - por EleusisLaArwall,
             Carnivorous Bacteria - por Pithlit,
+            Dynamic Rain - por valertron,
+            Even More Text Plates - por Zengineer,
             Fluroflux: Stingfrond Agriculture - por LordMiguel,
+            HD planets - por OwnlyMe,
             Scrappy Industry - por SafTheLamb
         - Mods atualizados:
             - Adicionadas traduções para a Fazenda lunar, do mod Lunar panel, em cooperação com o mod Bio Industries.
