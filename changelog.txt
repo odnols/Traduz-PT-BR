@@ -5,10 +5,12 @@ Date: ?
     - The changes from V1.0.2 have been undone! Optional mods make downloading faster and it's easier to see in-game what's supported in the translation package!
       - Unlike the changelog, we will list supported mods in alphabetical order globally, without separating by versions, just adding them in the middle.
   Adições:
-    - Mods traduzidos ( +11 / Total: 37)
+    - Mods traduzidos ( +14 / Total: 40)
       Actual Underground Pipes - por protocol_1903,
       Basic Chemistry - por EleusisLaArwall,
       Carnivorous Bacteria - por Pithlit,
+      Cupric Asteroids - por SafTheLamb & S6X,
+      Crushing Industry - por SafTheLamb & S6X,
       Dynamic Rain - por valertron,
       Even More Text Plates - por Zengineer,
       Factorio+ - por Fishbus,
@@ -16,7 +18,8 @@ Date: ?
       HD planets - por OwnlyMe,
       Missile Defense Systems [SA] - por kafoaai,
       Parallel Research - por Tename,
-      Scrappy Industry - por SafTheLamb
+      Scrappy Industry - por SafTheLamb,
+      Wooden Logistics - por SafTheLamb
     - Mods atualizados:
       - Adicionadas traduções para a Fazenda lunar, do mod Lunar panel, em cooperação com o mod Bio Industries.
   Alterações:
@@ -24,6 +27,7 @@ Date: ?
       - Esses mods opcionais ao contrário do log de alterações, serão exibidos em ordem alfabética para tornar mais fácil a localização in-game.
   Ajustes:
     - Corrigido um erro de typo na tradução do mod Logistics Insights onde a qualidade do item era ignorada, e o nome do item era mostrado novamente na guia de estatísticas da rede logística.
+    - Ajuste com o nome volframita relacionado ao tungstênio, e os textos do mod bztungsten2 para evitar inconsistências com a expansão Era Espacial, por se tratar do mesmo nome, o nome do item estava sobreescrevendo os nomes oficiais utilizados na expansão.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.2
 Date: 15/11/2025
@@ -66,7 +70,7 @@ Date: 11/11/2025
   Correções:
     - Traduções não funcionando para o nome e descrição do mod Elevated pipes.
 ---------------------------------------------------------------------------------------------------
-Versão: 1.0.0
+Version: 1.0.0
 Date: 11/11/2025
   Lançamento inicial:
     - Mods traduzidos: ( Total: 15 )

@@ -32,11 +32,13 @@ ter justificativa para ser publicado no mod oficialmente.
 Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês, ou quando juntar bastante conteúdo.
 
 # 🔣 Mods traduzidos ( Atualmente: 26 )
-> V1.0.3 - `em breve` ( `+11 mods traduzidos` )
+> V1.0.3 - `em breve` ( `+14 mods traduzidos` )
 
 - [Actual Underground Pipes](https://mods.factorio.com/mod/the-one-mod-with-underground-bits) - por protocol_1903
 - [Basic Chemistry](https://mods.factorio.com/mod/basic-chemistry) - por EleusisLaArwall
 - [Carnivorous Bacteria](https://mods.factorio.com/mod/carnivorous_bacteria) - por Pithlit
+- [Cupric Asteroids](https://mods.factorio.com/mod/cupric-asteroids) - Por SafTheLamb & S6X
+- [Crushing Industry](https://mods.factorio.com/mod/crushing-industry) - por SafTheLamb & S6X,
 - [Dynamic Rain](https://mods.factorio.com/mod/dynamic-rain) - por valertron
 - [Even More Text Plates](https://mods.factorio.com/mod/EvenMoreTextPlates) - por Zengineer
 - [Factorio+](https://mods.factorio.com/mod/factorioplus) - por Fishbus
@@ -45,6 +47,7 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 - [Missile Defense Systems [SA]](https://mods.factorio.com/mod/missile_defense_systems_sa) - por kafoaai
 - [Parallel Research](https://mods.factorio.com/mod/simultaneous-research) - por Tename
 - [Scrappy Industry](https://mods.factorio.com/mod/scrap-industry) - por SafTheLamb
+- [Wooden Logistics](https://mods.factorio.com/mod/wood-logistics) - por SafTheLamb
 
 > V1.0.2 - `15/11/2025` ( `+10 mods traduzidos` )
 
