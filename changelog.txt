@@ -1,89 +1,87 @@
-Versão: 1.0.3
-Data: ?
-    Depencencies:
-        - The changes from V1.0.2 have been undone! Optional mods make downloading faster and it's easier to see in-game what's supported in the translation package!
-            - Unlike the changelog, we will list supported mods in alphabetical order globally, without separating by versions, just adding them in the middle.
-    Adições:
-        - Mods traduzidos ( +11 / Total: 37)
-            Actual Underground Pipes - por protocol_1903,
-            Basic Chemistry - por EleusisLaArwall,
-            Carnivorous Bacteria - por Pithlit,
-            Dynamic Rain - por valertron,
-            Even More Text Plates - por Zengineer,
-            Factorio+ - por Fishbus,
-            Fluroflux: Stingfrond Agriculture - por LordMiguel,
-            HD planets - por OwnlyMe,
-            Missile Defense Systems [SA] - por kafoaai,
-            Parallel Research - por Tename,
-            Scrappy Industry - por SafTheLamb
-        - Mods atualizados:
-            - Adicionadas traduções para a Fazenda lunar, do mod Lunar panel, em cooperação com o mod Bio Industries.
-    Alterações:
-        - Adicionado novamente a lista de mods dependentes opcionais para ajudar a visualizar os mods suportados por este pacote in-game e tornar suas instalações mais dinâmicas.
-            - Esses mods opcionais ao contrário do log de alterações, serão exibidos em ordem alfabética para tornar mais fácil a localização in-game.
-    Ajustes:
-        - Corrigido um erro de typo na tradução do mod Logistics Insights onde a qualidade do item era ignorada, e o nome do item era mostrado novamente na guia de estatísticas da rede logística.
-
 ---------------------------------------------------------------------------------------------------
-Versão: 1.0.2
-Data: 15/11/2025
-    Depencencies:
-        - In this upload, we are removing the optional dependent mods from de site list. Since all supported mods are listed on the mod page, if your mod is on this list, please consider adding our mod as an optional one to your list to inform players that they can download Portuguese (Brazil) translations for your mod. This change aims to reduce repetitive work and the huge list of dependent mods as the package expands.
-        - Another detail concerns the changelog; with this update, we are also listing all the changes in Brazilian Portuguese so that native speakers know what is being changed, since this is a package for Brazilian Portuguese speakers. This will not imply the exclusion of the english returns here or in the mod page, so that all English-speaking readers know what's going on (without needing to translate :P)
-    Adições:
-        - Mods traduzidos ( +10 / Total: 26 )
-            Cannon Turret - por Vortik,
-            Carriage Transport - por SoulCRYSIS,
-            Early Elevated Rails - por Marcel171297,
-            Heat Inserter - por Kryzeth,
-            Logistics Insights - por farzag,
-            Mini Trains - por Klonan & Sacredanarchy,
-            Mini Trains Lead the Way - por Indzasa,
-            Planet Belt Portal - por agaede22,
-            Sushi Splitters - por TeXiCiTy,
-            Tungsten - por cackling.fiend & Brevven
-    Correções:
-        - O mod Mini Trains foi integrado ao pacote oficialmente nesta versão, apesar de ter sido listado anteriormente, o mesmo não estava presente nos arquivos do pacote, e foi removido do log como "adicionado" na versão 1.0.1
-    Alterações:
-        - Agora o log de alterações é totalmente em português!
-        - Removida a lista de mods dependentes opcionais para poupar muitas menções.
-            - Agora os mods serão listados conforme suas atualizações com links diretos na página do mod e no repositório do github.
-    Ajustes:
-        - Descrição do pacote ajustada para tornar mais formal e direta ao ponto.
-        - "Parallax" do mod StarMap Background agora aparece traduzido para "paralaxe".
-        - Removidas muitas chaves de tradução não utilizadas em vários arquivos de mods.
-        - Invertido a ordem nos nomes das placas de texto no mod Text Plates, antes estava como "Placa de pedra grande", agora aparecerá como "Placa grande de pedra".
-        - "de fusão" nos mods Planet Vesta e Fusion Robots foi ajustado para "a fusão" nos robôs e em outros itens para indicar que esses componentes são alimentados pela fusão nuclear, e não que são "feitos" (ou existem para fazer) pela fusão.
-        - Adicionadas novas traduçõs para o mod Bio Industries, especificamente para as entidades de "restos" que estão presentes no mod porém não possuem chaves de tradução em seus arquivos originais.
-
+Version: 1.0.3
+Date: ?
+  Depencencies:
+    - The changes from V1.0.2 have been undone! Optional mods make downloading faster and it's easier to see in-game what's supported in the translation package!
+      - Unlike the changelog, we will list supported mods in alphabetical order globally, without separating by versions, just adding them in the middle.
+  Adições:
+    - Mods traduzidos ( +11 / Total: 37)
+      Actual Underground Pipes - por protocol_1903,
+      Basic Chemistry - por EleusisLaArwall,
+      Carnivorous Bacteria - por Pithlit,
+      Dynamic Rain - por valertron,
+      Even More Text Plates - por Zengineer,
+      Factorio+ - por Fishbus,
+      Fluroflux: Stingfrond Agriculture - por LordMiguel,
+      HD planets - por OwnlyMe,
+      Missile Defense Systems [SA] - por kafoaai,
+      Parallel Research - por Tename,
+      Scrappy Industry - por SafTheLamb
+    - Mods atualizados:
+      - Adicionadas traduções para a Fazenda lunar, do mod Lunar panel, em cooperação com o mod Bio Industries.
+  Alterações:
+    - Adicionado novamente a lista de mods dependentes opcionais para ajudar a visualizar os mods suportados por este pacote in-game e tornar suas instalações mais dinâmicas.
+      - Esses mods opcionais ao contrário do log de alterações, serão exibidos em ordem alfabética para tornar mais fácil a localização in-game.
+  Ajustes:
+    - Corrigido um erro de typo na tradução do mod Logistics Insights onde a qualidade do item era ignorada, e o nome do item era mostrado novamente na guia de estatísticas da rede logística.
 ---------------------------------------------------------------------------------------------------
-Versão: 1.0.1
-Data: 11/11/2025
-    Adições:
-        - Mods traduzidos: ( +1 / Total: 16 )
-            Bio Industries - por TheSAguy, Pi-C, Snouz & cackling.fiend
-    Alterações:
-        - A ordem de listagem dos mods dependentes opcionais foi atualizada.
-    Correções:
-        - Traduções não funcionando para o nome e descrição do mod Elevated pipes.
-
+Version: 1.0.2
+Date: 15/11/2025
+  Depencencies:
+    - In this upload, we are removing the optional dependent mods from de site list. Since all supported mods are listed on the mod page, if your mod is on this list, please consider adding our mod as an optional one to your list to inform players that they can download Portuguese (Brazil) translations for your mod. This change aims to reduce repetitive work and the huge list of dependent mods as the package expands.
+    - Another detail concerns the changelog; with this update, we are also listing all the changes in Brazilian Portuguese so that native speakers know what is being changed, since this is a package for Brazilian Portuguese speakers. This will not imply the exclusion of the english returns here or in the mod page, so that all English-speaking readers know what's going on (without needing to translate :P)
+  Adições:
+    - Mods traduzidos ( +10 / Total: 26 )
+      Cannon Turret - por Vortik,
+      Carriage Transport - por SoulCRYSIS,
+      Early Elevated Rails - por Marcel171297,
+      Heat Inserter - por Kryzeth,
+      Logistics Insights - por farzag,
+      Mini Trains - por Klonan & Sacredanarchy,
+      Mini Trains Lead the Way - por Indzasa,
+      Planet Belt Portal - por agaede22,
+      Sushi Splitters - por TeXiCiTy,
+      Tungsten - por cackling.fiend & Brevven
+  Correções:
+    - O mod Mini Trains foi integrado ao pacote oficialmente nesta versão, apesar de ter sido listado anteriormente, o mesmo não estava presente nos arquivos do pacote, e foi removido do log como "adicionado" na versão 1.0.1
+  Alterações:
+    - Agora o log de alterações é totalmente em português!
+    - Removida a lista de mods dependentes opcionais para poupar muitas menções.
+      - Agora os mods serão listados conforme suas atualizações com links diretos na página do mod e no repositório do github.
+  Ajustes:
+    - Descrição do pacote ajustada para tornar mais formal e direta ao ponto.
+    - "Parallax" do mod StarMap Background agora aparece traduzido para "paralaxe".
+    - Removidas muitas chaves de tradução não utilizadas em vários arquivos de mods.
+    - Invertido a ordem nos nomes das placas de texto no mod Text Plates, antes estava como "Placa de pedra grande", agora aparecerá como "Placa grande de pedra".
+    - "de fusão" nos mods Planet Vesta e Fusion Robots foi ajustado para "a fusão" nos robôs e em outros itens para indicar que esses componentes são alimentados pela fusão nuclear, e não que são "feitos" (ou existem para fazer) pela fusão.
+    - Adicionadas novas traduçõs para o mod Bio Industries, especificamente para as entidades de "restos" que estão presentes no mod porém não possuem chaves de tradução em seus arquivos originais.
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 11/11/2025
+  Adições:
+    - Mods traduzidos: ( +1 / Total: 16 )
+      Bio Industries - por TheSAguy, Pi-C, Snouz & cackling.fiend
+  Alterações:
+    - A ordem de listagem dos mods dependentes opcionais foi atualizada.
+  Correções:
+    - Traduções não funcionando para o nome e descrição do mod Elevated pipes.
 ---------------------------------------------------------------------------------------------------
 Versão: 1.0.0
-Data: 11/11/2025
-    Lançamento inicial:
+Date: 11/11/2025
+  Lançamento inicial:
     - Mods traduzidos: ( Total: 15 )
-        Battery-Electric Train - por catWEax,
-        Elevated pipes - por Quezler & Redotix99,
-        Fluid Must Flow - por Linver, Krastor & raiguard,
-        Fracking Tower - por GammaDelta,
-        Fusion Robots - por Acouya,
-        Lunar Panel - por KilangCuka,
-        Legacy Train Model - por aspct,
-        Minimal Electric Rails - por snouz,
-        Ore-ganizer - por 0n0w1c,
-        Planet Vesta - por CPU_BlackHeart,
-        Plasma Accelerator - por ArkadiPorovozov,
-        Reach Equipment - por BetweenWalls,
-        StarMap Background - por Tserup,
-        Text Plates - por Earendel & gheift,
-        Visible Planets in Space - por Nauviax
+      Battery-Electric Train - por catWEax,
+      Elevated pipes - por Quezler & Redotix99,
+      Fluid Must Flow - por Linver, Krastor & raiguard,
+      Fracking Tower - por GammaDelta,
+      Fusion Robots - por Acouya,
+      Lunar Panel - por KilangCuka,
+      Legacy Train Model - por aspct,
+      Minimal Electric Rails - por snouz,
+      Ore-ganizer - por 0n0w1c,
+      Planet Vesta - por CPU_BlackHeart,
+      Plasma Accelerator - por ArkadiPorovozov,
+      Reach Equipment - por BetweenWalls,
+      StarMap Background - por Tserup,
+      Text Plates - por Earendel & gheift,
+      Visible Planets in Space - por Nauviax
