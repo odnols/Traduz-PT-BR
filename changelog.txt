@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.3
-Date: ?
+Date: 07/12/2025
   Depencencies:
     - The changes from V1.0.2 have been undone! Optional mods make downloading faster and it's easier to see in-game what's supported in the translation package!
       - Unlike the changelog, we will list supported mods in alphabetical order globally, without separating by versions, just adding them in the middle.
@@ -54,6 +54,7 @@ Date: ?
     - Ajustes gerais com pontuações finais e quebras de linhas em vários mods para tornar a leitura mais coesa.
   Problemas conhecidos:
     - No mod Factorio+ o nome dos ninhos dos inimigos está invertido, aparecendo o tamanho do ninho à frente do nome, ao invés de estar no final. Esse problema é conhecido e uma proposta de correção já foi enviada ao criador do mod para que possa verificar. No momento não é possível realizar a correção pois essa ordem de escrita depende exclusivamente do mod, e no momento a nomeação dos ninhos deste mod é "hardcoded", não sendo possível configurar através dos arquivos de tradução.
+    - No mod Toolbars as configurações e interfaces não possuem traduções, apesar de estar listado no pacote, pretendemos adicionar traduções a este mod no futuro, e uma proposta de correção já foi enviada ao criador do mod para que possa verificar. No momento não é possível realizar a tradução deste mod devido a natureza "hardcoded", não sendo possível traduzir através dos arquivos de tradução.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.2
 Date: 15/11/2025
