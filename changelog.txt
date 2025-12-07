@@ -13,7 +13,7 @@ Date: ?
     - Traduções vanilla:
       - Foram feitos vários ajustes aos nomes de recursos do jogo nesta versão do mod para corrigir nomes, descrições, interfaces, receitas, entidades e etc! Essas correções ficarão ativas enquanto o jogo não às integrar oficialmente através do Crowdin. De modo a corrigir vários problemas de escrita e gramática que são encontrados durante o desenvolvimento deste mod nos menus e itens do jogo.
         - Essas correções estão localizadas em locale/slondo-ptbr.cfg
-    - Mods traduzidos ( +23 / Total: 49)
+    - Mods traduzidos ( +24 / Total: 50)
       Actual Underground Pipes - por protocol_1903,
       Advanced Atomic Science - por Velaanix,
       Assembling Machine 2.5 - por DrinkShellOil,
@@ -36,6 +36,7 @@ Date: ?
       Parallel Research - por Tename,
       Scrappy Industry - por SafTheLamb,
       Toolbars - por zerwiport,
+      Voidcraft - por S6X,
       Wooden Logistics - por SafTheLamb
     - Mods atualizados:
       - Adicionadas traduções para a Fazenda lunar, do mod Lunar panel, em cooperação com o mod Bio Industries.
