@@ -32,10 +32,12 @@ ter justificativa para ser publicado no mod oficialmente.
 Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês, ou quando juntar bastante conteúdo.
 
 # 🔣 Mods traduzidos ( Atualmente: 26 )
-> V1.0.3 - `em breve` ( `+14 mods traduzidos` )
+> V1.0.3 - `em breve` ( `+18 mods traduzidos` )
 
 - [Actual Underground Pipes](https://mods.factorio.com/mod/the-one-mod-with-underground-bits) - por protocol_1903
+- [Assembling Machine 2.5](https://mods.factorio.com/mod/AssemblingMachine25) - por DrinkShellOil,
 - [Basic Chemistry](https://mods.factorio.com/mod/basic-chemistry) - por EleusisLaArwall
+- [Carbonut Agriculture](https://mods.factorio.com/mod/carbonut_agriculture) - por Talandar99
 - [Carnivorous Bacteria](https://mods.factorio.com/mod/carnivorous_bacteria) - por Pithlit
 - [Cupric Asteroids](https://mods.factorio.com/mod/cupric-asteroids) - Por SafTheLamb & S6X
 - [Crushing Industry](https://mods.factorio.com/mod/crushing-industry) - por SafTheLamb & S6X,
@@ -44,9 +46,11 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 - [Factorio+](https://mods.factorio.com/mod/factorioplus) - por Fishbus
 - [Fluroflux: Stingfrond Agriculture](https://mods.factorio.com/mod/fluroflux) - por LordMiguel
 - [HD planets](https://mods.factorio.com/mod/hd_planets) - por OwnlyMe
+- [Heat-resistant Pipes](https://mods.factorio.com/mod/HotPipesFork) - por NOiZE
 - [Missile Defense Systems [SA]](https://mods.factorio.com/mod/missile_defense_systems_sa) - por kafoaai
 - [Parallel Research](https://mods.factorio.com/mod/simultaneous-research) - por Tename
 - [Scrappy Industry](https://mods.factorio.com/mod/scrap-industry) - por SafTheLamb
+- [Toolbars](https://mods.factorio.com/mod/toolbars-mod) - por zerwiport
 - [Wooden Logistics](https://mods.factorio.com/mod/wood-logistics) - por SafTheLamb
 
 > V1.0.2 - `15/11/2025` ( `+10 mods traduzidos` )

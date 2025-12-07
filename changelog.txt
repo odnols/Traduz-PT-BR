@@ -11,11 +11,13 @@ Date: ?
     - Foram adicionadas novas funções internas para desativar nomes e descrições dos mods que não estão ativos em seu jogo, como este pacote terá diversos mods, não queremos que apareçam descrições e nomes trocados se não forem ativados através de outros mods.
       - Com essa versão, descrições e nomes sofisticados que são de itens que estão no jogo serão ignorados se seus mods respectivos não estiverem ativos.
     - Traduções vanilla:
-      - Um pacote com vários ajustes de nomes de recursos do jogo foi incluso nessa versão para corrigir nomes, descrições, interfaces, receitas, entidades e etc! Essas correções ficarão ativas enquanto o jogo não às integrar oficialmente através do Crowdin. De modo a corrigir vários problemas de escrita e gramática que são encontrados durante o desenvolvimento deste mod nos menus e itens do jogo.
-        - Essas traduções estão localizadas em locale/base.cfg
-    - Mods traduzidos ( +14 / Total: 40)
+      - Foram feitos vários ajustes aos nomes de recursos do jogo nesta versão do mod para corrigir nomes, descrições, interfaces, receitas, entidades e etc! Essas correções ficarão ativas enquanto o jogo não às integrar oficialmente através do Crowdin. De modo a corrigir vários problemas de escrita e gramática que são encontrados durante o desenvolvimento deste mod nos menus e itens do jogo.
+        - Essas correções estão localizadas em locale/slondo-ptbr.cfg
+    - Mods traduzidos ( +18 / Total: 44)
       Actual Underground Pipes - por protocol_1903,
+      Assembling Machine 2.5 - por DrinkShellOil,
       Basic Chemistry - por EleusisLaArwall,
+      Carbonut Agriculture - por Talandar99,
       Carnivorous Bacteria - por Pithlit,
       Cupric Asteroids - por SafTheLamb & S6X,
       Crushing Industry - por SafTheLamb & S6X,
@@ -24,9 +26,11 @@ Date: ?
       Factorio+ - por Fishbus,
       Fluroflux: Stingfrond Agriculture - por LordMiguel,
       HD planets - por OwnlyMe,
+      Heat-resistant Pipes - por NOiZE,
       Missile Defense Systems [SA] - por kafoaai,
       Parallel Research - por Tename,
       Scrappy Industry - por SafTheLamb,
+      Toolbars - por zerwiport,
       Wooden Logistics - por SafTheLamb
     - Mods atualizados:
       - Adicionadas traduções para a Fazenda lunar, do mod Lunar panel, em cooperação com o mod Bio Industries.
@@ -43,6 +47,8 @@ Date: ?
     - Ajustados os nomes e descrições dos pacotes de recursos do planeta Vesta.
     - Ajustadas algumas descrições de configurações do mod Bio Industries para tornar a leitura mais coesa.
     - Ajustes gerais com pontuações finais e quebras de linhas em vários mods para tornar a leitura mais coesa.
+  Problemas conhecidos:
+    - No mod Factorio+ o nome dos geradores dos inimigos está invertido, aparecendo o tamanho do gerador à frente do nome, ao invés de estar no final. Essa alteração é conhecida e uma proposta de correção já foi enviada ao criador do mod para que possa verificar. No momento não é possível realizar a correção pois essa ordem de escrita depende exclusivamente do mod, e no momento a nomeação dos ninhos deste mod é "hardcoded".
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.2
 Date: 15/11/2025
