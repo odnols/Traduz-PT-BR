@@ -32,13 +32,14 @@ ter justificativa para ser publicado no mod oficialmente.
 Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês, ou quando juntar bastante conteúdo.
 
 # 🔣 Mods traduzidos ( Atualmente: 26 )
-> V1.0.3 - `em breve` ( `+22 mods traduzidos` )
+> V1.0.3 - `em breve` ( `+23 mods traduzidos` )
 
 - [Actual Underground Pipes](https://mods.factorio.com/mod/the-one-mod-with-underground-bits) - por protocol_1903
 - [Advanced Atomic Science](https://mods.factorio.com/mod/advanced-atomic-science) - por Velaanix,
 - [Assembling Machine 2.5](https://mods.factorio.com/mod/AssemblingMachine25) - por DrinkShellOil,
 - [Basic Chemistry](https://mods.factorio.com/mod/basic-chemistry) - por EleusisLaArwall
 - [Basic Chemistry - Full Control](https://mods.factorio.com/mod/basic-chemistry-full-control) - por EleusisLaArwall
+- [Bluetonium](https://mods.factorio.com/mod/Bluetonium) - por S6X
 - [Carbonut Agriculture](https://mods.factorio.com/mod/carbonut_agriculture) - por Talandar99
 - [Carnivorous Bacteria](https://mods.factorio.com/mod/carnivorous_bacteria) - por Pithlit
 - [Cupric Asteroids](https://mods.factorio.com/mod/cupric-asteroids) - Por SafTheLamb & S6X
