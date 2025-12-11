@@ -42,7 +42,7 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 - [Bluetonium](https://mods.factorio.com/mod/Bluetonium) - por S6X
 - [Carbonut Agriculture](https://mods.factorio.com/mod/carbonut_agriculture) - por Talandar99
 - [Carnivorous Bacteria](https://mods.factorio.com/mod/carnivorous_bacteria) - por Pithlit
-- [Cupric Asteroids](https://mods.factorio.com/mod/cupric-asteroids) - Por SafTheLamb & S6X
+- [Cupric Asteroids](https://mods.factorio.com/mod/cupric-asteroids) - por SafTheLamb & S6X
 - [Crushing Industry](https://mods.factorio.com/mod/crushing-industry) - por SafTheLamb & S6X,
 - [Dynamic Rain](https://mods.factorio.com/mod/dynamic-rain) - por valertron
 - [Even More Text Plates](https://mods.factorio.com/mod/EvenMoreTextPlates) - por Zengineer

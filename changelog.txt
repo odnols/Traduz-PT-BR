@@ -4,8 +4,12 @@ Date: ?
   Adições:
     - Mods traduzidos ( +1 / Total: 51)
       PlanetsLib - por thesixthroc
+  Remoções:
+    - Mods removidos ( 1 )
+      Toolbars - por zerwiport
   Ajustes:
     - "Trilho curvado" do mod Minimal Electric Rails foi alterado para "Trilho curvo" para se igualar ao nome padrão do jogo.
+    - Adicionados mais correções para nomes de itens vanilla que estão errados no jogo padrão.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.3
 Date: 07/12/2025
