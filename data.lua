@@ -2,9 +2,7 @@
 -- for name, _ in pairs(data.raw["autoplace-control"]) do
 --     log(name)
 -- end
-
 -- Remove specific descriptions and names when certain mods are not active.
-
 -- factorioplus
 if mods["factorioplus"] == nil then
     data.raw.item["rocket-fuel"].localised_name = {"item-name.slondo-ptbr-rocket-fuel"}
@@ -36,4 +34,9 @@ if mods["Bio_Industries_2"] == nil then
             ac.localised_description = {""}
         end
     end
+end
+
+-- factorissimo 2
+if mods["factorissimo-2"] == nil then
+    data.raw.item["agricultural-tower"].localised_description = {"entity-description.slondo-ptbr-agricultural-tower"}
 end
