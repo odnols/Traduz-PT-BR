@@ -36,107 +36,13 @@ ter justificativa para ser publicado no mod oficialmente.
 
 Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando uma atualização ao portal mod até o `10° dia` de cada mês, ou quando juntar bastante conteúdo.
 
-# 🔣 Mods traduzidos ( Atualmente: 76 )
-> V1.0.5 - `upcoming` ( `+4 mods traduzidos` )
+# 🔣 Mods traduzidos ( Atualmente: 76 `+ 4 em breve` )
+| Integrado | Versão do Mod | Mod e autor(es) | Observações |
+|:---:|:---:|:----|:---:|
+| `V1.0.5` | `0.1.1` | [Planet Akularis](https://mods.factorio.com/mod/planet-akularis) por rjdunlap | `em breve` |
+| `V1.0.5` | `0.1.3` | [Planet Hexalith](https://mods.factorio.com/mod/planet-hexalith) por rjdunlap | `em breve` |
+| `V1.0.5` | `1.31.2` | [Planet Maraxsis](https://mods.factorio.com/mod/maraxsis) por notnotmelon | `em breve` |
+| `V1.0.5` | `0.1.6` | [Wire Lamps](https://mods.factorio.com/mod/wire_lamps) por peterwolf.pl | `em breve` |
 
-Adições:
-- [Planet Akularis](https://mods.factorio.com/mod/planet-akularis) - por rjdunlap
-- [Planet Hexalith](https://mods.factorio.com/mod/planet-hexalith) - por rjdunlap
-- [Planet Maraxsis](https://mods.factorio.com/mod/maraxsis) - por notnotmelon
-- [Wire Lamps](https://mods.factorio.com/mod/wire_lamps) - por peterwolf.pl
-
-> V1.0.4 - `11/01/2026` ( `+27 mods traduzidos`, `-1 mod removido`)
-
-Adições:
-- [AAI Loaders](https://mods.factorio.com/mod/aai-loaders) - por Earendel
-- [Agricultural Roboport](https://mods.factorio.com/mod/agricultural-roboport) - por Proffzulus
-- [Alloy Smelting](https://mods.factorio.com/mod/alloy-smelting) - por SafTheLamb & S6X
-- [Barreling Group](https://mods.factorio.com/mod/barreling-group2) - por pav, GeneralTank & Evilpla
-- [Canal Excavator](https://mods.factorio.com/mod/canal-excavator) - por Jurgy
-- [Cargo Crates](https://mods.factorio.com/mod/cargo_crates) - por Talandar99
-- [Cargo Ships](https://mods.factorio.com/mod/cargo-ships/) - por schnurrebutz & snouz
-- [Diesel Engine](https://mods.factorio.com/mod/diesel_engine) - por Talandar99
-- [Distant Shores](https://mods.factorio.com/mod/pirateship) - por micaalle
-- [Factorio Data Standards Library](https://mods.factorio.com/mod/fdsl) - por SafTheLamb
-- [Factorissimo 3](https://mods.factorio.com/mod/factorissimo-2-notnotmelon) - por MagmaMcFry & notnotmelon
-- [Fundryu](https://mods.factorio.com/mod/Fundryu) - por Azertyyu
-- [HD Plasma Duct](https://mods.factorio.com/mod/hd-plasma-duct) - por Powerscooter & Keysivi
-- [Larger Lamps 2.0](https://mods.factorio.com/mod/LargerLamps-2_0) - por Deadlock989, Goakiller900, MasterBuilder & NullHarp
-- [Long range delivery drones (fork)](https://mods.factorio.com/mod/long_range_delivery_drones_talandar_fork) - por Talandar99
-- [Molten plastic](https://mods.factorio.com/mod/molten_plastic) - por Powerscooter
-- [PlanetLib](https://mods.factorio.com/mod/PlanetsLib) - por thesixthroc
-- [Planet Pelagos](https://mods.factorio.com/mod/pelagos) - por Talandar99
-- [Plasma Handling](https://mods.factorio.com/mod/plasma_handling) - por Powerscooter
-- [Plasma Industries](https://mods.factorio.com/mod/plasma_crafter) - por Powerscooter
-- [Promethium Belts](https://mods.factorio.com/mod/promethium-belts) - por Helios467
-- [Quantum emitter](https://mods.factorio.com/mod/Quantum-diffuser) - por Azertyyu
-- [Quantum Lab](https://mods.factorio.com/mod/quantum_lab) - por Azertyyu
-- [Robocharger Factorio 2.0](https://mods.factorio.com/mod/Robocharger-Updated) - por Smurph & briel1235
-- [Scrappy Chemistry](https://mods.factorio.com/mod/scrap-chemistry) - por SafTheLamb
-- [Various Cargo Bays](https://mods.factorio.com/mod/Various_Cargo_Bays) - por Powerscooter
-- [Wooden Industry](https://mods.factorio.com/mod/wood-industry) - por SafTheLamb
-
-Remoções:
-- [Toolbars](https://mods.factorio.com/mod/toolbars-mod) - por zerwiport
-
-> V1.0.3 - `07/12/2025` ( `+24 mods traduzidos` )
-
-Adições:
-- [Actual Underground Pipes](https://mods.factorio.com/mod/the-one-mod-with-underground-bits) - por protocol_1903
-- [Advanced Atomic Science](https://mods.factorio.com/mod/advanced-atomic-science) - por Velaanix
-- [Assembling Machine 2.5](https://mods.factorio.com/mod/AssemblingMachine25) - por DrinkShellOil
-- [Basic Chemistry](https://mods.factorio.com/mod/basic-chemistry) - por EleusisLaArwall
-- [Basic Chemistry - Full Control](https://mods.factorio.com/mod/basic-chemistry-full-control) - por EleusisLaArwall
-- [Bluetonium](https://mods.factorio.com/mod/Bluetonium) - por S6X
-- [Carbonut Agriculture](https://mods.factorio.com/mod/carbonut_agriculture) - por Talandar99
-- [Carnivorous Bacteria](https://mods.factorio.com/mod/carnivorous_bacteria) - por Pithlit
-- [Cupric Asteroids](https://mods.factorio.com/mod/cupric-asteroids) - por SafTheLamb & S6X
-- [Crushing Industry](https://mods.factorio.com/mod/crushing-industry) - por SafTheLamb & S6X
-- [Dynamic Rain](https://mods.factorio.com/mod/dynamic-rain) - por valertron
-- [Even More Text Plates](https://mods.factorio.com/mod/EvenMoreTextPlates) - por Zengineer
-- [Factorio+](https://mods.factorio.com/mod/factorioplus) - por Fishbus
-- [Fluid recycler](https://mods.factorio.com/mod/liquid_recycler) - por Powerscooter
-- [Fluroflux: Stingfrond Agriculture](https://mods.factorio.com/mod/fluroflux) - por LordMiguel
-- [HD planets](https://mods.factorio.com/mod/hd_planets) - por OwnlyMe
-- [Heat-resistant Pipes](https://mods.factorio.com/mod/HotPipesFork) - por NOiZE
-- [Manufacturer](https://mods.factorio.com/mod/Manufacturer) - por Velaanix
-- [Missile Defense Systems [SA]](https://mods.factorio.com/mod/missile_defense_systems_sa) - por kafoaai
-- [Parallel Research](https://mods.factorio.com/mod/simultaneous-research) - por Tename
-- [Scrappy Industry](https://mods.factorio.com/mod/scrap-industry) - por SafTheLamb
-- [Toolbars](https://mods.factorio.com/mod/toolbars-mod) - por zerwiport
-- [Voidcraft](https://mods.factorio.com/mod/Voidcraft) - por S6X
-- [Wooden Logistics](https://mods.factorio.com/mod/wood-logistics) - por SafTheLamb
-
-> V1.0.2 - `15/11/2025` ( `+10 mods traduzidos` )
-
-Adições:
-- [Cannon Turret](https://mods.factorio.com/mod/vtk-cannon-turret) - por Vortik
-- [Carriage Transport](https://mods.factorio.com/mod/carriage) - por SoulCRYSIS
-- [Early Elevated Rails](https://mods.factorio.com/mod/early-elevated-rails) - por Marcel171297
-- [Heat Inserter](https://mods.factorio.com/mod/heat-inserter) - por Kryzeth
-- [Logistics Insights](https://mods.factorio.com/mod/logistics-insights) - por farzag
-- [Mini Trains](https://mods.factorio.com/mod/Mini_Trains) - por Klonan & Sacredanarchy
-- [Mini Trains Lead the Way](https://mods.factorio.com/mod/Mini-Trains-Lead-the-Way) - por Indzasa
-- [Planet Belt Portal](https://mods.factorio.com/mod/planet-belt-portal) - por agaede22
-- [Sushi Splitters](https://mods.factorio.com/mod/sushi-splitters) - por TeXiCiTy
-- [Tungsten](https://mods.factorio.com/mod/bztungsten2) - por cackling.fiend & Brevven
-
-> V1.0.0 & 1.0.1 - 11/11/2025 ( `16 Mods traduzidos` )
-
-Adições:
-- [Battery-Electric Train](https://mods.factorio.com/mod/BatteryElectricTrain) - por catWEax
-- [Bio Industries](https://mods.factorio.com/mod/Bio_Industries_2) - por TheSAguy, Pi-C, Snouz & cackling.fiend
-- [Elevated pipes](https://mods.factorio.com/mod/elevated-pipes) - por Quezler & Redotix99
-- [Fluid Must Flow](https://mods.factorio.com/mod/FluidMustFlow) - por Linver, Krastor & raiguard
-- [Fracking Tower](https://mods.factorio.com/mod/pk-fracking-tower) - por GammaDelta
-- [Fusion Robots](https://mods.factorio.com/mod/FusionPoweredRobots) - por Acouya
-- [Legacy Train Model](https://mods.factorio.com/mod/AspctTrainPatch) - por aspct
-- [Lunar Panel](https://mods.factorio.com/mod/kc-lunarpanel) - por KilangCuka
-- [Minimal Electric Rails](https://mods.factorio.com/mod/minimalist-rails) - por snouz
-- [Ore-ganizer](https://mods.factorio.com/mod/ore-ganizer) - por 0n0w1c
-- [Planet Vesta](https://mods.factorio.com/mod/skewer_planet_vesta) - por CPU_BlackHeart
-- [Plasma Accelerator](https://mods.factorio.com/mod/reactor-m) - por ArkadiPorovozov
-- [Reach Equipment](https://mods.factorio.com/mod/reach-equipment) - por BetweenWalls
-- [StarMap Background](https://mods.factorio.com/mod/Better_Starmap_Background) - por Tserup
-- [Text Plates](https://mods.factorio.com/mod/textplates) - por Earendel & gheift
-- [Visible Planets in Space](https://mods.factorio.com/mod/visible-planets) - por Nauviax
+📊 **Lista completa de mods suportados:**
+[Ver planilha CSV](mods.csv) - Essa lista contêm todos os mods suportados em ordem alfabética, com suas versões suportadas.
