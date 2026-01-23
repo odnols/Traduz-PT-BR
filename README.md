@@ -44,6 +44,8 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 [View Spreadsheet](mods.csv) - An ordered list of all supported mods, similar to the one below, but in English.
 > "Mod version" refers to the version that was used as the basis for creating the localizations for the specific mod. This number will change if more words are added to the mod.
 
+> 🛃 Abaixo há o campo "Integrado" e o "Versão do Mod", integrado se refere a versão do pacote de traducoes que adicionou suporte ao mod. Versão do Mod representa a versão utilizada como base para prover a localização, esse número não significa que o pacote só funcionará nessa versão do Mod, mas que essa versão foi a base para as traduções. Caso um mod atualize, adicionando ou alterando os textos, o conteúdo no pacote e essa versão descrita na tabela serão atualizadas.
+
 | Integrado | Versão do Mod | Mod | Autor(es) | Lançamento |
 |:--------:|:-------------:|:----|:---------|:----:|
 | `V1.0.3` | `0.2.7` | [AAI Loaders](https://mods.factorio.com/mod/aai-loaders) | Earendel | `07/12/2025` |
