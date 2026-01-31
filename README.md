@@ -46,72 +46,76 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 
 | Integrado | Mod | Autor(es) | Lançamento |
 |:--------:|:-------------:|:----|:---------|
-| `V1.0.3` | [AAI Loaders](https://mods.factorio.com/mod/aai-loaders) | Earendel | `07/12/2025` |
+| `V1.0.4` | [AAI Loaders](https://mods.factorio.com/mod/aai-loaders) | Earendel | `11/01/2026` |
 | `V1.0.3` | [Actual Underground Pipes](https://mods.factorio.com/mod/the-one-mod-with-underground-bits) | protocol_1903 | `07/12/2025` |
 | `V1.0.3` | [Advanced Atomic Science](https://mods.factorio.com/mod/advanced-atomic-science) | Velaanix | `07/12/2025` |
-| `V1.0.3` | [Agricultural Roboport](https://mods.factorio.com/mod/agricultural-roboport) | Proffzulus | `07/12/2025` |
-| `V1.0.3` | [Alloy Smelting](https://mods.factorio.com/mod/alloy-smelting) | SafTheLamb & S6X | `07/12/2025` |
+| `V1.0.4` | [Agricultural Roboport](https://mods.factorio.com/mod/agricultural-roboport) | Proffzulus | `11/01/2026` |
+| `V1.0.4` | [Alloy Smelting](https://mods.factorio.com/mod/alloy-smelting) | SafTheLamb & S6X | `11/01/2026` |
 | `V1.0.3` | [Assembling Machine 2.5](https://mods.factorio.com/mod/AssemblingMachine25) | DrinkShellOil | `07/12/2025` |
-| `V1.0.3` | [Barreling Group](https://mods.factorio.com/mod/barreling-group2) | pav, GeneralTank & Evilpla | `07/12/2025` |
+| `V1.0.4` | [Barreling Group](https://mods.factorio.com/mod/barreling-group2) | pav, GeneralTank & Evilpla | `11/01/2026` |
 | `V1.0.3` | [Basic Chemistry](https://mods.factorio.com/mod/basic-chemistry) | EleusisLaArwall | `07/12/2025` |
 | `V1.0.3` | [Basic Chemistry – Full Control](https://mods.factorio.com/mod/basic-chemistry-full-control) | EleusisLaArwall | `07/12/2025` |
 | `V1.0.0` | [Battery-Electric Train](https://mods.factorio.com/mod/BatteryElectricTrain) | catWEax | `11/11/2025` |
 | `V1.0.1` | [Bio Industries](https://mods.factorio.com/mod/Bio_Industries_2) | TheSAguy, Pi-C, Snouz & cackling.fiend | `11/11/2025` |
 | `V1.0.3` | [Bluetonium](https://mods.factorio.com/mod/Bluetonium) | S6X | `07/12/2025` |
-| `V1.0.3` | [Canal Excavator](https://mods.factorio.com/mod/canal-excavator) | Jurgy | `07/12/2025` |
+| `V1.0.4` | [Canal Excavator](https://mods.factorio.com/mod/canal-excavator) | Jurgy | `11/01/2026` |
 | `V1.0.2` | [Cannon Turret](https://mods.factorio.com/mod/vtk-cannon-turret) | Vortik | `15/11/2025` |
 | `V1.0.3` | [Carbonut Agriculture](https://mods.factorio.com/mod/carbonut_agriculture) | Talandar99 | `07/12/2025` |
-| `V1.0.3` | [Cargo Crates](https://mods.factorio.com/mod/cargo_crates) | Talandar99 | `07/12/2025` |
-| `V1.0.3` | [Cargo Ships](https://mods.factorio.com/mod/cargo-ships) | schnurrebutz & snouz | `07/12/2025` |
+| `V1.0.4` | [Cargo Crates](https://mods.factorio.com/mod/cargo_crates) | Talandar99 | `11/01/2026` |
+| `V1.0.4` | [Cargo Ships](https://mods.factorio.com/mod/cargo-ships) | schnurrebutz & snouz | `11/01/2026` |
 | `V1.0.2` | [Carriage Transport](https://mods.factorio.com/mod/carriage) | SoulCRYSIS | `15/11/2025` |
 | `V1.0.3` | [Carnivorous Bacteria](https://mods.factorio.com/mod/carnivorous_bacteria) | Pithlit | `07/12/2025` |
 | `V1.0.3` | [Crushing Industry](https://mods.factorio.com/mod/crushing-industry) | SafTheLamb & S6X | `07/12/2025` |
 | `V1.0.3` | [Cupric Asteroids](https://mods.factorio.com/mod/cupric-asteroids) | SafTheLamb & S6X | `07/12/2025` |
-| `V1.0.3` | [Diesel Engine](https://mods.factorio.com/mod/diesel_engine) | Talandar99 | `07/12/2025` |
-| `V1.0.3` | [Distant Shores](https://mods.factorio.com/mod/pirateship) | micaalle | `07/12/2025` |
+| `V1.0.4` | [Diesel Engine](https://mods.factorio.com/mod/diesel_engine) | Talandar99 | `11/01/2026` |
+| `V1.0.4` | [Distant Shores](https://mods.factorio.com/mod/pirateship) | micaalle | `11/01/2026` |
 | `V1.0.3` | [Dynamic Rain](https://mods.factorio.com/mod/dynamic-rain) | valertron | `07/12/2025` |
 | `V1.0.2` | [Early Elevated Rails](https://mods.factorio.com/mod/early-elevated-rails) | Marcel171297 | `15/11/2025` |
 | `V1.0.0` | [Elevated pipes](https://mods.factorio.com/mod/elevated-pipes) | Quezler & Redotix99 | `11/11/2025` |
 | `V1.0.3` | [Even More Text Plates](https://mods.factorio.com/mod/EvenMoreTextPlates) | Zengineer | `07/12/2025` |
 | `V1.0.5` | [Extra Storage Tanks: Tiny Storage Tanks](https://mods.factorio.com/mod/est-tiny-storage-tank) | ZarSasha, Aurora & Moonlight | `em breve` |
 | `V1.0.3` | [Factorio+](https://mods.factorio.com/mod/factorioplus) | Fishbus | `07/12/2025` |
-| `V1.0.3` | [Factorio Data Standards Library](https://mods.factorio.com/mod/fdsl) | SafTheLamb | `07/12/2025` |
-| `V1.0.3` | [Factorissimo 3](https://mods.factorio.com/mod/factorissimo-2-notnotmelon) | MagmaMcFry & notnotmelon | `07/12/2025` |
+| `V1.0.4` | [Factorio Data Standards Library](https://mods.factorio.com/mod/fdsl) | SafTheLamb | `11/01/2026` |
+| `V1.0.4` | [Factorissimo 3](https://mods.factorio.com/mod/factorissimo-2-notnotmelon) | MagmaMcFry & notnotmelon | `11/01/2026` |
 | `V1.0.0` | [Fluid Must Flow](https://mods.factorio.com/mod/FluidMustFlow) | Linver, Krastor & raiguard | `11/11/2025` |
 | `V1.0.3` | [Fluid recycler](https://mods.factorio.com/mod/liquid_recycler) | Powerscooter | `07/12/2025` |
 | `V1.0.3` | [Fluroflux: Stingfrond Agriculture](https://mods.factorio.com/mod/fluroflux) | LordMiguel | `07/12/2025` |
 | `V1.0.0` | [Fracking Tower](https://mods.factorio.com/mod/pk-fracking-tower) | GammaDelta | `11/11/2025` |
+| `V1.0.4` | [Fundryu](https://mods.factorio.com/mod/Fundryu) | Azertyyu | `11/01/2026` |
 | `V1.0.0` | [Fusion Robots](https://mods.factorio.com/mod/FusionPoweredRobots) | Acouya | `11/11/2025` |
 | `V1.0.3` | [HD planets](https://mods.factorio.com/mod/hd_planets) | OwnlyMe | `07/12/2025` |
-| `V1.0.3` | [HD Plasma Duct](https://mods.factorio.com/mod/hd-plasma-duct) | Powerscooter & Keysivi | `07/12/2025` |
+| `V1.0.4` | [HD Plasma Duct](https://mods.factorio.com/mod/hd-plasma-duct) | Powerscooter & Keysivi | `11/01/2026` |
 | `V1.0.2` | [Heat Inserter](https://mods.factorio.com/mod/heat-inserter) | Kryzeth | `15/11/2025` |
 | `V1.0.3` | [Heat-resistant Pipes](https://mods.factorio.com/mod/HotPipesFork) | NOiZE | `07/12/2025` |
+| `V1.0.4` | [Larger Lamps 2.0](https://mods.factorio.com/mod/LargerLamps-2_0) | Deadlock989, Goakiller900, MasterBuilder & NullHarp | `11/01/2026` |
 | `V1.0.0` | [Legacy Train Model](https://mods.factorio.com/mod/AspctTrainPatch) | aspct | `11/11/2025` |
 | `V1.0.2` | [Logistics Insights](https://mods.factorio.com/mod/logistics-insights) | farzag | `15/11/2025` |
+| `V1.0.4` | [Long range delivery drones (fork)](https://mods.factorio.com/mod/long_range_delivery_drones_talandar_fork) | Talandar99 | `11/01/2026` |
 | `V1.0.3` | [Manufacturer](https://mods.factorio.com/mod/Manufacturer) | Velaanix | `07/12/2025` |
 | `V1.0.0` | [Minimal Electric Rails](https://mods.factorio.com/mod/minimalist-rails) | snouz | `11/11/2025` |
 | `V1.0.2` | [Mini Trains](https://mods.factorio.com/mod/Mini_Trains) | Klonan & Sacredanarchy | `15/11/2025` |
 | `V1.0.2` | [Mini Trains Lead the Way](https://mods.factorio.com/mod/Mini-Trains-Lead-the-Way) | Indzasa | `15/11/2025` |
 | `V1.0.3` | [Missile Defense Systems [SA]](https://mods.factorio.com/mod/missile_defense_systems_sa) | kafoaai | `07/12/2025` |
-| `V1.0.3` | [Molten plastic](https://mods.factorio.com/mod/molten_plastic) | Powerscooter | `07/12/2025` |
+| `V1.0.4` | [Molten plastic](https://mods.factorio.com/mod/molten_plastic) | Powerscooter | `11/01/2026` |
 | `V1.0.0` | [Ore-ganizer](https://mods.factorio.com/mod/ore-ganizer) | 0n0w1c | `11/11/2025` |
 | `V1.0.3` | [Parallel Research](https://mods.factorio.com/mod/simultaneous-research) | Tename | `07/12/2025` |
 | `V1.0.5` | [Planet Akularis](https://mods.factorio.com/mod/planet-akularis) | rjdunlap | `em breve` |
 | `V1.0.2` | [Planet Belt Portal](https://mods.factorio.com/mod/planet-belt-portal) | agaede22 | `15/11/2025` |
 | `V1.0.5` | [Planet Hexalith](https://mods.factorio.com/mod/planet-hexalith) | rjdunlap | `em breve` |
 | `V1.0.5` | [Planet Maraxsis](https://mods.factorio.com/mod/maraxsis) | notnotmelon | `em breve` |
-| `V1.0.3` | [Planet Pelagos](https://mods.factorio.com/mod/pelagos) | Talandar99 | `07/12/2025` |
+| `V1.0.4` | [Planet Pelagos](https://mods.factorio.com/mod/pelagos) | Talandar99 | `11/01/2026` |
 | `V1.0.0` | [Planet Vesta](https://mods.factorio.com/mod/skewer_planet_vesta) | CPU_BlackHeart | `11/11/2025` |
-| `V1.0.3` | [PlanetLib](https://mods.factorio.com/mod/PlanetsLib) | thesixthroc | `07/12/2025` |
+| `V1.0.4` | [PlanetLib](https://mods.factorio.com/mod/PlanetsLib) | thesixthroc | `11/01/2026` |
 | `V1.0.0` | [Plasma Accelerator](https://mods.factorio.com/mod/reactor-m) | ArkadiPorovozov | `11/11/2025` |
-| `V1.0.3` | [Plasma Handling](https://mods.factorio.com/mod/plasma_handling) | Powerscooter | `07/12/2025` |
-| `V1.0.3` | [Plasma Industries](https://mods.factorio.com/mod/plasma_crafter) | Powerscooter | `07/12/2025` |
-| `V1.0.3` | [Promethium Belts](https://mods.factorio.com/mod/promethium-belts) | Helios467 | `07/12/2025` |
-| `V1.0.3` | [Quantum emitter](https://mods.factorio.com/mod/Quantum-diffuser) | Azertyyu | `07/12/2025` |
-| `V1.0.3` | [Quantum Lab](https://mods.factorio.com/mod/quantum_lab) | Azertyyu | `07/12/2025` |
+| `V1.0.4` | [Plasma Handling](https://mods.factorio.com/mod/plasma_handling) | Powerscooter | `11/01/2026` |
+| `V1.0.4` | [Plasma Industries](https://mods.factorio.com/mod/plasma_crafter) | Powerscooter | `11/01/2026` |
+| `V1.0.4` | [Promethium Belts](https://mods.factorio.com/mod/promethium-belts) | Helios467 | `11/01/2026` |
+| `V1.0.4` | [Quantum emitter](https://mods.factorio.com/mod/Quantum-diffuser) | Azertyyu | `11/01/2026` |
+| `V1.0.4` | [Quantum Lab](https://mods.factorio.com/mod/quantum_lab) | Azertyyu | `11/01/2026` |
 | `V1.0.0` | [Reach Equipment](https://mods.factorio.com/mod/reach-equipment) | BetweenWalls | `11/11/2025` |
+| `V1.0.4` | [Robocharger Factorio 2.0](https://mods.factorio.com/mod/Robocharger-Updated) | Smurph & briel1235 | `11/01/2026` |
 | `V1.0.5` | [Scrap Toolkit](https://mods.factorio.com/mod/scraptk) | SafTheLamb & S6X | `em breve` |
-| `V1.0.3` | [Scrappy Chemistry](https://mods.factorio.com/mod/scrap-chemistry) | SafTheLamb | `07/12/2025` |
+| `V1.0.4` | [Scrappy Chemistry](https://mods.factorio.com/mod/scrap-chemistry) | SafTheLamb | `11/01/2026` |
 | `V1.0.3` | [Scrappy Industry](https://mods.factorio.com/mod/scrap-industry) | SafTheLamb | `07/12/2025` |
 | `V1.0.5` | [Spidertron Enhancements](https://mods.factorio.com/mod/SpidertronEnhancements) | Xorimuth | `em breve` |
 | `V1.0.5` | [Spidertron Patrols](https://mods.factorio.com/mod/SpidertronPatrols) | Xorimuth | `em breve` |
@@ -119,8 +123,9 @@ Com o lançamento oficial do mod em `11/11/2025`, o planejado é estar enviando 
 | `V1.0.2` | [Sushi Splitters](https://mods.factorio.com/mod/sushi-splitters) | TeXiCiTy | `15/11/2025` |
 | `V1.0.0` | [Text Plates](https://mods.factorio.com/mod/textplates) | Earendel & gheift | `11/11/2025` |
 | `V1.0.2` | [Tungsten](https://mods.factorio.com/mod/bztungsten2) | cackling.fiend & Brevven | `15/11/2025` |
+| `V1.0.4` | [Various Cargo Bays](https://mods.factorio.com/mod/Various_Cargo_Bays) | Powerscooter | `11/01/2026` |
 | `V1.0.0` | [Visible Planets in Space](https://mods.factorio.com/mod/visible-planets) | Nauviax | `11/11/2025` |
 | `V1.0.3` | [Voidcraft](https://mods.factorio.com/mod/Voidcraft) | S6X | `07/12/2025` |
 | `V1.0.5` | [Wire Lamps](https://mods.factorio.com/mod/wire_lamps) | peterwolf.pl | `em breve` |
-| `V1.0.3` | [Wooden Industry](https://mods.factorio.com/mod/wood-industry) | SafTheLamb | `07/12/2025` |
+| `V1.0.4` | [Wooden Industry](https://mods.factorio.com/mod/wood-industry) | SafTheLamb | `11/01/2026` |
 | `V1.0.3` | [Wooden Logistics](https://mods.factorio.com/mod/wood-logistics) | SafTheLamb | `07/12/2025` |

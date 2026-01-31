@@ -15,11 +15,17 @@ Date: ?
       - Atualizadas traduções do mod Alloy Smelting, em decorrência de uma atualização do mod.
       - Atualizadas traduções do mod Cargo Crates, em decorrência de uma atualização do mod.
       - Atualizadas traduções do mod Crushing Industry, em decorrência de uma atualização do mod.
+      - Atualizadas traduções do mod Factorissimo 3, em decorrência de uma atualização do mod.
+      - Atualizadas traduções do mod Factorio+, em decorrência de uma atualização do mod.
       - Atualizadas traduções do mod Fluid Recycler, em decorrência de uma atualização do mod.
       - Atualizadas traduções do mod Fracking Tower, em decorrência de uma atualização do mod.
       - Atualizadas traduções do mod Lunar Panel, em decorrência de uma atualização do mod.
+      - Atualizadas traduções do mod Manufacturer, em decorrência de uma atualização do mod.
       - Atualizadas traduções do mod Molten plastic, em decorrência de uma atualização do mod.
+      - Atualizadas traduções do mod Ore-ganizer, em decorrência de uma atualização do mod.
+      - Atualizadas traduções do mod Planet Vesta, em decorrência de uma atualização do mod.
       - Atualizadas traduções do mod Scrappy Chemistry, em decorrência de uma atualização do mod.
+      - Atualizadas traduções do mod Voidcraft, em decorrência de uma atualização do mod.
   Ajustes:
     - "Bóia" do mod Cargo Ships foi alterado para "Bóia de sinalização" para ficar de acordo com sua contraparte em cadeia.
     - "Munição de dardos" do mod Bio Industries 2 foi alterado apenas para "Dardos" para simplificar o nome.
